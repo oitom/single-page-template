@@ -3,7 +3,9 @@
 Um template padrão html 5 com:
 * Bootstrap 4.0; 
 * Font Awesome 4.7; 
-* JQuery 3.3. 
+* JQuery 3.3;
+* Google Fonts: Lato;
+* Google Fonts: Pathway Gothic One.
 
 
 ## Contributing
