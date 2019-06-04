@@ -15,4 +15,4 @@ Pull requests são bem-vindos. Para alterações importantes, por favor, abra um
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshot
-![Image description](https://github.com/wcostale/single-page-template/blob/master/screenshot-template.png)
+![Image description](https://github.com/wcostale/single-page-template/blob/master/screenshot-template.jpg)
