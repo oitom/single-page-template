@@ -13,3 +13,6 @@ Pull requests são bem-vindos. Para alterações importantes, por favor, abra um
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshot
+![Image description](https://github.com/wcostale/single-page-template/blob/master/screenshot-template.png)
